@@ -1,0 +1,214 @@
+                                               
+    ██╗  ██╗ █████╗  ██████╗██╗  ██╗██╗  ██╗██╗     ██╗  ██╗ 
+    ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██║  ██║██║     ╚██╗██╔╝ 
+    ███████║███████║██║     █████╔╝ ███████║██║      ╚███╔╝  
+    ██╔══██║██╔══██║██║     ██╔═██╗ ╚════██║██║      ██╔██╗  
+    ██║  ██║██║  ██║╚██████╗██║  ██╗     ██║███████╗██╔╝ ██╗ 
+    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝
+          📌 M4nifest0 Black Hat Hacking Team™💪
+                       👊 hack4lx 👊
+            📌 💪 Site : https://m4nifest0.com 👊
+            📌 💪 Site : https://m4nifest0.group 👊
+            📌 💪 Site : https://m4nifest0.shop 👊
+        💪 Channel Telegram : https://t.me/M4nifest0 👊
+ # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+ID: 744, Name: csrss.exe, CommandLine: 
+===============
+ID: 828, Name: winlogon.exe, CommandLine: 
+===============
+ID: 968, Name: fontdrvhost.exe, CommandLine: 
+===============
+ID: 1064, Name: dwm.exe, CommandLine: 
+===============
+ID: 2040, Name: SynTPEnh.exe, CommandLine: "C:\Program Files\Synaptics\SynTP\SynTPEnh.exe"
+===============
+ID: 2112, Name: sihost.exe, CommandLine: sihost.exe
+===============
+ID: 4792, Name: svchost.exe, CommandLine: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s CDPUserSvc
+===============
+ID: 3020, Name: rtop_bg.exe, CommandLine: "c:\program files\bytefence\rtop\bin\rtop_bg.exe" -start
+===============
+ID: 2720, Name: svchost.exe, CommandLine: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s WpnUserService
+===============
+ID: 2228, Name: taskhostw.exe, CommandLine: taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+===============
+ID: 6336, Name: ctfmon.exe, CommandLine: 
+===============
+ID: 6420, Name: SynTPHelper.exe, CommandLine: 
+===============
+ID: 6452, Name: igfxEM.exe, CommandLine: igfxEM.exe 
+===============
+ID: 6584, Name: igfxHK.exe, CommandLine: igfxHK.exe 
+===============
+ID: 6680, Name: explorer.exe, CommandLine: C:\WINDOWS\Explorer.EXE
+===============
+ID: 6712, Name: igfxTray.exe, CommandLine: igfxTray.exe 
+===============
+ID: 7032, Name: svchost.exe, CommandLine: C:\WINDOWS\system32\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc
+===============
+ID: 280, Name: StartMenuExperienceHost.exe, CommandLine: "C:\WINDOWS\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca
+===============
+ID: 2764, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 7300, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 7488, Name: ShellExperienceHost.exe, CommandLine: "C:\WINDOWS\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca
+===============
+ID: 7980, Name: SettingSyncHost.exe, CommandLine: C:\WINDOWS\system32\SettingSyncHost.exe -Embedding
+===============
+ID: 3252, Name: SecurityHealthSystray.exe, CommandLine: "C:\Windows\System32\SecurityHealthSystray.exe" 
+===============
+ID: 6800, Name: RAVCpl64.exe, CommandLine: "C:\Program Files\Realtek\Audio\HDA\RAVCpl64.exe" -s
+===============
+ID: 5900, Name: RAVBg64.exe, CommandLine: "C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe" /LENOVO_DOLBYDRAGON
+===============
+ID: 6004, Name: RAVBg64.exe, CommandLine: "C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe" /LENOVO_MICPKEY
+===============
+ID: 7584, Name: OneDrive.exe, CommandLine: "C:\Users\My Computer\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+===============
+ID: 8216, Name: NMBgMonitor.exe, CommandLine: "C:\Program Files (x86)\Common Files\Ahead\Lib\NMBgMonitor.exe" 
+===============
+ID: 8268, Name: AvastUI.exe, CommandLine: AvastUI.exe /nogui
+===============
+ID: 8312, Name: NMIndexStoreSvr.exe, CommandLine: "C:\Program Files (x86)\Common Files\Ahead\Lib\NMIndexStoreSvr.exe" -Embedding
+===============
+ID: 8384, Name: Discord.exe, CommandLine: "C:\Users\My Computer\AppData\Local\Discord\app-0.0.307\Discord.exe" 
+===============
+ID: 8556, Name: chrome.exe, CommandLine: "C:\Users\My Computer\AppData\Local\chromium\Application\chrome.exe" --no-startup-window /prefetch:5
+===============
+ID: 8592, Name: walliant.exe, CommandLine: "C:\Users\My Computer\AppData\Local\Programs\Walliant\walliant.exe" 
+===============
+ID: 8700, Name: chrome.exe, CommandLine: "C:\Users\My Computer\AppData\Local\chromium\Application\chrome.exe" --type=crashpad-handler "--user-data-dir=C:\Users\My Computer\AppData\Local\Chromium\User Data" /prefetch:7 --monitor-self --monitor-self-argument=--type=crashpad-handler "--monitor-self-argument=--user-data-dir=C:\Users\My Computer\AppData\Local\Chromium\User Data" --monitor-self-argument=/prefetch:7 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\My Computer\AppData\Local\Chromium\User Data\Crashpad" "--metrics-dir=C:\Users\My Computer\AppData\Local\Chromium\User Data" --annotation=plat=Win32 --annotation=prod=Chromium --annotation=ver=63.0.3235.0-devel --initial-client-data=0x214,0x218,0x21c,0x210,0x220,0x6b4e78e4,0x6b4e78f4,0x6b4e7904
+===============
+ID: 8732, Name: SearchUI.exe, CommandLine: "C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca
+===============
+ID: 8744, Name: chrome.exe, CommandLine: "C:\Users\My Computer\AppData\Local\chromium\Application\chrome.exe" --type=crashpad-handler "--user-data-dir=C:\Users\My Computer\AppData\Local\Chromium\User Data" /prefetch:7 --no-periodic-tasks --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\My Computer\AppData\Local\Chromium\User Data\Crashpad" --annotation=plat=Win32 --annotation=prod=Chromium --annotation=ver=63.0.3235.0-devel --initial-client-data=0x238,0x23c,0x240,0x234,0x244,0x112b7dc,0x112b7ec,0x112b7fc
+===============
+ID: 9132, Name: chrome.exe, CommandLine: "C:\Users\My Computer\AppData\Local\chromium\Application\chrome.exe" --type=gpu-process --field-trial-handle=1780,9900171219601108328,3914056662983812013,131072 --gpu-vendor-id=0x8086 --gpu-device-id=0x22b1 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=20.19.15.4531 --gpu-driver-date=9-29-2016 --service-request-channel-token=0B9A1AB0E08B5F93A5344E6DCFF92A2C --mojo-platform-channel-handle=1880 --ignored=" --type=renderer " /prefetch:2
+===============
+ID: 1700, Name: Skype.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.65.78.0_x86__kzf8qxf38zg5c\Skype\Skype.exe" 
+===============
+ID: 8484, Name: chrome.exe, CommandLine: "C:\Users\My Computer\AppData\Local\chromium\Application\chrome.exe" --type=renderer --field-trial-handle=1780,9900171219601108328,3914056662983812013,131072 --service-pipe-token=64B8EEA719E80249F1E3639D3884D9AF --lang=en-US --extension-process --disable-client-side-phishing-detection --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=disallowFetchForDocWrittenScriptsInMainFrame=false,disallowFetchForDocWrittenScriptsInMainFrameOnSlowConnections=true,cssExternalScannerNoPreload=false,cssExternalScannerPreload=true --origin-trial-disabled-features=MeasureMemory --enable-pinch --device-scale-factor=1 --num-raster-threads=1 --enable-checker-imaging --enable-compositor-image-animations --enable-gpu-async-worker-context --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553 --service-request-channel-token=64B8EEA719E80249F1E3639D3884D9AF --renderer-client-id=3 --mojo-platform-channel-handle=3684 /prefetch:1
+===============
+ID: 7196, Name: chrome.exe, CommandLine: "C:\Users\My Computer\AppData\Local\chromium\Application\chrome.exe" --type=renderer --field-trial-handle=1780,9900171219601108328,3914056662983812013,131072 --service-pipe-token=91EDE549061AA1706D58F4E06D864AE0 --lang=en-US --extension-process --disable-client-side-phishing-detection --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=disallowFetchForDocWrittenScriptsInMainFrame=false,disallowFetchForDocWrittenScriptsInMainFrameOnSlowConnections=true,cssExternalScannerNoPreload=false,cssExternalScannerPreload=true --origin-trial-disabled-features=MeasureMemory --enable-pinch --device-scale-factor=1 --num-raster-threads=1 --enable-checker-imaging --enable-compositor-image-animations --enable-gpu-async-worker-context --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553 --service-request-channel-token=91EDE549061AA1706D58F4E06D864AE0 --renderer-client-id=4 --mojo-platform-channel-handle=3916 /prefetch:1
+===============
+ID: 4452, Name: SMΔRTP.exe, CommandLine: "C:\Program Files (x86)\SMADAV\SMΔRTP.exe" rts
+===============
+ID: 648, Name: PowerDVD15Agent.exe, CommandLine: "C:\Program Files (x86)\CyberLink\PowerDVD15\PowerDVD15Agent.exe" 
+===============
+ID: 8708, Name: jusched.exe, CommandLine: "C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe" 
+===============
+ID: 9048, Name: RazerCortex.exe, CommandLine: 
+===============
+ID: 4948, Name: svchost.exe, CommandLine: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+===============
+ID: 10400, Name: Discord.exe, CommandLine: "C:\Users\My Computer\AppData\Local\Discord\app-0.0.307\Discord.exe" --type=gpu-process --field-trial-handle=1816,13215784308913465792,9664609844244019557,131072 --disable-features=SpareRendererForSitePerProcess --gpu-preferences=KAAAAAAAAADgAAAwAAAAAAAAYAAAAAAAEAAAAAAAAAAAAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAFAAAAEAAAAAAAAAAAAAAABgAAABAAAAAAAAAAAQAAAAUAAAAQAAAAAAAAAAEAAAAGAAAA --service-request-channel-token=4676972691894622097 --mojo-platform-channel-handle=1856 --ignored=" --type=renderer " /prefetch:2
+===============
+ID: 10704, Name: SecurityHealthHost.exe, CommandLine: C:\Windows\System32\SecurityHealthHost.exe {08728914-3F57-4D52-9E31-49DAECA5A80A} -Embedding
+===============
+ID: 10792, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 10932, Name: Skype.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.65.78.0_x86__kzf8qxf38zg5c\Skype\Skype.exe" --no-rate-limit --no-upload-gzip --type=crash-handler "--crashes-directory=C:\Users\MYCOMP~1\AppData\Local\Temp\skype-preview Crashes" "--database=C:\Users\MYCOMP~1\AppData\Local\Temp\skype-preview Crashes" "--metrics-dir=C:\Users\MYCOMP~1\AppData\Local\Temp\skype-preview Crashes" --url=appcenter://generic?aid=a8902fe7-ef45-455c-8513-5e56d48e36fd&iid=44c86454-d269-4182-957b-d0ec85f616d3&uid=eb33b886-5dc5-4953-3d91-a6559d7ef1d9 --initial-client-data=0x740,0x744,0x748,0x73c,0x74c,0x54f2c98,0x54f2ca8,0x54f2cb4
+===============
+ID: 11128, Name: Discord.exe, CommandLine: "C:\Users\My Computer\AppData\Local\Discord\app-0.0.307\Discord.exe" --type=utility --field-trial-handle=1816,13215784308913465792,9664609844244019557,131072 --disable-features=SpareRendererForSitePerProcess --lang=en-US --service-sandbox-type=network --service-request-channel-token=1217002473802706533 --mojo-platform-channel-handle=2244 /prefetch:8
+===============
+ID: 10504, Name: Skype.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.65.78.0_x86__kzf8qxf38zg5c\Skype\Skype.exe" --type=gpu-process --field-trial-handle=2072,195327280332804634,9896015421840785766,131072 --enable-features=WebComponentsV0Enabled --disable-features=PictureInPicture,SpareRendererForSitePerProcess --electron-shared-settings=eyJjci5jb21wYW55IjoiRWxlY3Ryb24iLCJjci5kdW1wcyI6IiIsImNyLmVuYWJsZWQiOmZhbHNlLCJjci5wcm9kdWN0IjoiRWxlY3Ryb24iLCJjci5zZXNzaW9uIjoiIiwiY3IudXJsIjoiIiwiY3IudmVyc2lvbiI6IiJ9 --gpu-preferences=KAAAAAAAAADgAAAwAAAAAAAAYAAAAAAAEAAAAAAAAAAAAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAFAAAAEAAAAAAAAAAAAAAABgAAABAAAAAAAAAAAQAAAAUAAAAQAAAAAAAAAAEAAAAGAAAA --mojo-platform-channel-handle=2392 --ignored=" --type=renderer " /prefetch:2
+===============
+ID: 11592, Name: Skype.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.65.78.0_x86__kzf8qxf38zg5c\Skype\Skype.exe" --type=utility --field-trial-handle=2072,195327280332804634,9896015421840785766,131072 --enable-features=WebComponentsV0Enabled --disable-features=PictureInPicture,SpareRendererForSitePerProcess --lang=en-US --service-sandbox-type=network --electron-shared-settings=eyJjci5jb21wYW55IjoiRWxlY3Ryb24iLCJjci5kdW1wcyI6IiIsImNyLmVuYWJsZWQiOmZhbHNlLCJjci5wcm9kdWN0IjoiRWxlY3Ryb24iLCJjci5zZXNzaW9uIjoiIiwiY3IudXJsIjoiIiwiY3IudmVyc2lvbiI6IiJ9 --mojo-platform-channel-handle=2636 /prefetch:8
+===============
+ID: 10120, Name: Skype.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.65.78.0_x86__kzf8qxf38zg5c\Skype\Skype.exe" --type=renderer --autoplay-policy=no-user-gesture-required --disable-background-timer-throttling --ms-disable-indexeddb-transaction-timeout --field-trial-handle=2072,195327280332804634,9896015421840785766,131072 --enable-features=WebComponentsV0Enabled --disable-features=PictureInPicture,SpareRendererForSitePerProcess --lang=en-US --app-user-model-id=Microsoft.Skype.SkypeDesktop --app-path="C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.65.78.0_x86__kzf8qxf38zg5c\Skype\resources\app.asar" --webview-tag --no-sandbox --no-zygote --native-window-open --preload="C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.65.78.0_x86__kzf8qxf38zg5c\Skype\resources\app.asar\preload.js" --background-color=#fff --node-integration-in-subframes --enable-spellcheck --enable-websql --electron-shared-settings=eyJjci5jb21wYW55IjoiRWxlY3Ryb24iLCJjci5kdW1wcyI6IiIsImNyLmVuYWJsZWQiOmZhbHNlLCJjci5wcm9kdWN0IjoiRWxlY3Ryb24iLCJjci5zZXNzaW9uIjoiIiwiY3IudXJsIjoiIiwiY3IudmVyc2lvbiI6IiJ9 --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=5 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=3064 /prefetch:1 --skype-process-type=Main --skype-window-id=__MAIN_ROOT_VIEW_ID__
+===============
+ID: 8696, Name: Discord.exe, CommandLine: "C:\Users\My Computer\AppData\Local\Discord\app-0.0.307\Discord.exe" --no-rate-limit --no-upload-gzip --type=crash-handler "--crashes-directory=C:\Users\MYCOMP~1\AppData\Local\Temp\Discord Crashes" "--database=C:\Users\MYCOMP~1\AppData\Local\Temp\Discord Crashes" "--metrics-dir=C:\Users\MYCOMP~1\AppData\Local\Temp\Discord Crashes" --url=https://sentry.io/api/146342/minidump/?sentry_key=384ce4413de74fe0be270abe03b2b35a --initial-client-data=0x688,0x68c,0x9e8,0x6c0,0x598,0x609f090,0x609f0a0,0x609f0ac
+===============
+ID: 10916, Name: Discord.exe, CommandLine: "C:\Users\My Computer\AppData\Local\Discord\app-0.0.307\Discord.exe" --type=renderer --autoplay-policy=no-user-gesture-required --field-trial-handle=1816,13215784308913465792,9664609844244019557,131072 --disable-features=SpareRendererForSitePerProcess --lang=en-US --app-user-model-id=com.squirrel.Discord.Discord --app-path="C:\Users\My Computer\AppData\Local\Discord\app-0.0.307\resources\app.asar" --no-sandbox --no-zygote --native-window-open --preload="C:\Users\My Computer\AppData\Roaming\discord\0.0.307\modules\discord_desktop_core\core.asar\app\mainScreenPreload.js" --disable-remote-module --context-isolation --background-color=#202225 --enable-websql --device-scale-factor=1 --num-raster-threads=1 --service-request-channel-token=2370694128859254830 --renderer-client-id=7 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=2648 /prefetch:1 --enable-node-leakage-in-renderers
+===============
+ID: 11476, Name: CefSharp.BrowserSubprocess.exe, CommandLine: 
+===============
+ID: 10924, Name: Razer Central.exe, CommandLine: "C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Central.exe" /Client
+===============
+ID: 8012, Name: Discord.exe, CommandLine: "C:\Users\My Computer\AppData\Local\Discord\app-0.0.307\Discord.exe" --type=utility --field-trial-handle=1816,13215784308913465792,9664609844244019557,131072 --disable-features=SpareRendererForSitePerProcess --lang=en-US --service-sandbox-type=audio --service-request-channel-token=5274644187469025846 --mojo-platform-channel-handle=2844 /prefetch:8
+===============
+ID: 7684, Name: CefSharp.BrowserSubprocess.exe, CommandLine: CefSharp.BrowserSubprocess.exe --type=gpu-process --disable-features=AsyncWheelEvents,SurfaceSynchronization --no-sandbox --log-file="C:\ProgramData\Razer\Razer Central\Logs\cef_steven.l.log" --log-severity=info --lang=en-US --cefsharpexitsub --gpu-preferences=KAAAAAAAAACAAwCAAQAAAAAAAAAAAGAAEAAAAAAAAAAAAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAKAAAAEAAAAAAAAAAAAAAACwAAABAAAAAAAAAAAQAAAAoAAAAQAAAAAAAAAAEAAAALAAAA --log-file="C:\ProgramData\Razer\Razer Central\Logs\cef_steven.l.log" --log-severity=info --lang=en-US --cefsharpexitsub --service-request-channel-token=E39F17B3B9861F7996DAA849370AECCB --mojo-platform-channel-handle=2268 /prefetch:2 --host-process-id=10924 --host-process-id=10924
+===============
+ID: 11656, Name: CefSharp.BrowserSubprocess.exe, CommandLine: CefSharp.BrowserSubprocess.exe --type=renderer --no-sandbox --disable-features=AsyncWheelEvents,SurfaceSynchronization --service-pipe-token=7D09DCE7EA5C4EE921C8317BF5B2970F --lang=en-US --log-file="C:\ProgramData\Razer\Razer Central\Logs\cef_steven.l.log" --log-severity=info --enable-system-flash=1 --cefsharpexitsub --device-scale-factor=1 --num-raster-threads=1 --service-request-channel-token=7D09DCE7EA5C4EE921C8317BF5B2970F --renderer-client-id=4 --mojo-platform-channel-handle=4128 /prefetch:1 --host-process-id=10924
+===============
+ID: 9824, Name: dllhost.exe, CommandLine: C:\WINDOWS\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}
+===============
+ID: 11860, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 6580, Name: AvastUI.exe, CommandLine: "C:\Program Files\AVAST Software\Avast\AvastUI.exe" --type=gpu-process --field-trial-handle=8196,249980631194279379,1684065766389417357,131072 --enable-features=CastMediaRouteProvider --disable-features=OutOfBlinkCors --no-sandbox --disable-gpu-driver-bug-workarounds --log-file="C:\Users\My Computer\AppData\Roaming\Avast Software\Avast\log\cef_log.txt" --log-severity=error --user-agent="Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.3.3626.1895 Safari/537.36 Avastium (20.8.2432)" --lang=en-US --proxy-auto-detect --disable-webaudio --force-wave-audio --disable-software-rasterizer --no-sandbox --blacklist-accelerated-compositing --disable-accelerated-2d-canvas --disable-accelerated-compositing --disable-accelerated-layers --disable-accelerated-video-decode --blacklist-webgl --disable-bundled-ppapi-flash --disable-flash-3d --enable-aggressive-domstorage-flushing --enable-media-stream --allow-file-access-from-files=1 --pack_loading_disabled=1 --gpu-preferences=MAAAAAAAAADgAABwAAAAAAAAAAAAAAAAAABgAAAAAAAQAAAAAAAAAAAAAAAAAAAAKAAAAAQAAAAgAAAAAAAAACgAAAAAAAAAMAAAAAAAAAA4AAAAAAAAABAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAABAAAABQAAABAAAAAAAAAAAQAAAAYAAAA= --use-gl=swiftshader-webgl --log-file="C:\Users\My Computer\AppData\Roaming\Avast Software\Avast\log\cef_log.txt" --mojo-platform-channel-handle=8252 /prefetch:2
+===============
+ID: 10280, Name: AvastUI.exe, CommandLine: "C:\Program Files\AVAST Software\Avast\AvastUI.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=8196,249980631194279379,1684065766389417357,131072 --enable-features=CastMediaRouteProvider --disable-features=OutOfBlinkCors --lang=en-US --service-sandbox-type=network --no-sandbox --force-wave-audio --log-file="C:\Users\My Computer\AppData\Roaming\Avast Software\Avast\log\cef_log.txt" --log-severity=error --user-agent="Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.3.3626.1895 Safari/537.36 Avastium (20.8.2432)" --lang=en-US --proxy-auto-detect --disable-webaudio --force-wave-audio --disable-software-rasterizer --no-sandbox --blacklist-accelerated-compositing --disable-accelerated-2d-canvas --disable-accelerated-compositing --disable-accelerated-layers --disable-accelerated-video-decode --blacklist-webgl --disable-bundled-ppapi-flash --disable-flash-3d --enable-aggressive-domstorage-flushing --enable-media-stream --allow-file-access-from-files=1 --pack_loading_disabled=1 --log-file="C:\Users\My Computer\AppData\Roaming\Avast Software\Avast\log\cef_log.txt" --mojo-platform-channel-handle=8304 /prefetch:8
+===============
+ID: 12176, Name: dllhost.exe, CommandLine: 
+===============
+ID: 10104, Name: AvastUI.exe, CommandLine: "C:\Program Files\AVAST Software\Avast\AvastUI.exe" --type=utility --utility-sub-type=audio.mojom.AudioService --field-trial-handle=8196,249980631194279379,1684065766389417357,131072 --enable-features=CastMediaRouteProvider --disable-features=OutOfBlinkCors --lang=en-US --service-sandbox-type=audio --no-sandbox --force-wave-audio --log-file="C:\Users\My Computer\AppData\Roaming\Avast Software\Avast\log\cef_log.txt" --log-severity=error --user-agent="Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.3.3626.1895 Safari/537.36 Avastium (20.8.2432)" --lang=en-US --proxy-auto-detect --disable-webaudio --force-wave-audio --disable-software-rasterizer --no-sandbox --blacklist-accelerated-compositing --disable-accelerated-2d-canvas --disable-accelerated-compositing --disable-accelerated-layers --disable-accelerated-video-decode --blacklist-webgl --disable-bundled-ppapi-flash --disable-flash-3d --enable-aggressive-domstorage-flushing --enable-media-stream --allow-file-access-from-files=1 --pack_loading_disabled=1 --log-file="C:\Users\My Computer\AppData\Roaming\Avast Software\Avast\log\cef_log.txt" --mojo-platform-channel-handle=9036 /prefetch:8
+===============
+ID: 9288, Name: WindowsInternal.ComposableShell.Experiences.TextInput.InputApp.exe, CommandLine: "C:\WINDOWS\SystemApps\InputApp_cw5n1h2txyewy\WindowsInternal.ComposableShell.Experiences.TextInput.InputApp.exe" -ServerName:App.AppXagta193n5rpf7mheremt3yyfa1g555vc.mca
+===============
+ID: 1400, Name: WinStore.App.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.WindowsStore_12010.1001.2.0_x64__8wekyb3d8bbwe\WinStore.App.exe" -ServerName:App.AppXc75wvwned5vhz4xyxxecvgdjhdkgsdza.mca
+===============
+ID: 1804, Name: ApplicationFrameHost.exe, CommandLine: C:\WINDOWS\system32\ApplicationFrameHost.exe -Embedding
+===============
+ID: 4712, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 3924, Name: SystemSettings.exe, CommandLine: "C:\Windows\ImmersiveControlPanel\SystemSettings.exe" -ServerName:microsoft.windows.immersivecontrolpanel
+===============
+ID: 5052, Name: UserOOBEBroker.exe, CommandLine: C:\Windows\System32\oobe\UserOOBEBroker.exe -Embedding
+===============
+ID: 8164, Name: LockApp.exe, CommandLine: "C:\WINDOWS\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe" -ServerName:WindowsDefaultLockScreen.AppX7y4nbzq37zn4ks9k7amqjywdat7d3j2z.mca
+===============
+ID: 11436, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 12168, Name: taskhostw.exe, CommandLine: 
+===============
+ID: 10468, Name: Vega X.exe, CommandLine: "C:\Users\My Computer\Desktop\Vega X - v2.0.4a\Vega X.exe" 
+===============
+ID: 13128, Name: GameBar.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_5.420.8043.0_x64__8wekyb3d8bbwe\GameBar.exe" -ServerName:App.AppXbdkk0yrkwpcgeaem8zk81k8py1eaahny.mca
+===============
+ID: 11452, Name: Video.UI.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.20082.10421.0_x64__8wekyb3d8bbwe\Video.UI.exe" -ServerName:Microsoft.ZuneVideo.AppX758ya5sqdjd98rx6z7g95nw6jy7bqx9y.mca
+===============
+ID: 10016, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 3112, Name: chrome.exe, CommandLine: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" 
+===============
+ID: 8328, Name: chrome.exe, CommandLine: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=crashpad-handler "--user-data-dir=C:\Users\My Computer\AppData\Local\Google\Chrome\User Data" /prefetch:7 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\My Computer\AppData\Local\Google\Chrome\User Data\Crashpad" "--metrics-dir=C:\Users\My Computer\AppData\Local\Google\Chrome\User Data" --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=Win64 --annotation=prod=Chrome --annotation=ver=86.0.4240.111 --initial-client-data=0xd4,0xd8,0xdc,0xb0,0xe0,0x7ff8a15b6e00,0x7ff8a15b6e10,0x7ff8a15b6e20
+===============
+ID: 5668, Name: chrome.exe, CommandLine: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=gpu-process --field-trial-handle=1632,11783860823361273981,10424980959169133499,131072 --gpu-preferences=MAAAAAAAAADgAAAwAAAAAAAAAAAAAAAAAABgAAAAAAAQAAAAAAAAAAAAAAAAAAAAKAAAAAQAAAAgAAAAAAAAACgAAAAAAAAAMAAAAAAAAAA4AAAAAAAAABAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAABAAAABQAAABAAAAAAAAAAAQAAAAYAAAA= --use-gl=swiftshader-webgl --mojo-platform-channel-handle=1648 /prefetch:2
+===============
+ID: 5992, Name: chrome.exe, CommandLine: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=1632,11783860823361273981,10424980959169133499,131072 --lang=en-US --service-sandbox-type=network --mojo-platform-channel-handle=1896 /prefetch:8
+===============
+ID: 1728, Name: chrome.exe, CommandLine: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --field-trial-handle=1632,11783860823361273981,10424980959169133499,131072 --lang=en-US --service-sandbox-type=utility --mojo-platform-channel-handle=2380 /prefetch:8
+===============
+ID: 10132, Name: chrome.exe, CommandLine: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1632,11783860823361273981,10424980959169133499,131072 --disable-gpu-compositing --lang=en-US --extension-process --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=2960 /prefetch:1
+===============
+ID: 10568, Name: chrome.exe, CommandLine: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1632,11783860823361273981,10424980959169133499,131072 --disable-gpu-compositing --lang=en-US --extension-process --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=5 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=3524 /prefetch:1
+===============
+ID: 14084, Name: chrome.exe, CommandLine: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1632,11783860823361273981,10424980959169133499,131072 --disable-gpu-compositing --lang=en-US --extension-process --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=7 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=4036 /prefetch:1
+===============
+ID: 4412, Name: chrome.exe, CommandLine: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1632,11783860823361273981,10424980959169133499,131072 --disable-gpu-compositing --lang=en-US --extension-process --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=8 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=4156 /prefetch:1
+===============
+ID: 4616, Name: chrome.exe, CommandLine: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1632,11783860823361273981,10424980959169133499,131072 --disable-gpu-compositing --lang=en-US --extension-process --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=9 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=4300 /prefetch:1
+===============
+ID: 8116, Name: chrome.exe, CommandLine: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1632,11783860823361273981,10424980959169133499,131072 --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=26 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=4644 /prefetch:1
+===============
+ID: 9612, Name: chrome.exe, CommandLine: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1632,11783860823361273981,10424980959169133499,131072 --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=27 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=4864 /prefetch:1
+===============
+ID: 8140, Name: Microsoft.Photos.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2020.20090.1002.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe" -ServerName:App.AppXzst44mncqdg84v7sv6p7yznqwssy6f7f.mca
+===============
+ID: 11936, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 7496, Name: CompPkgSrv.exe, CommandLine: C:\Windows\System32\CompPkgSrv.exe -Embedding
+===============
+ID: 14144, Name: chrome.exe, CommandLine: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1632,11783860823361273981,10424980959169133499,131072 --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=81 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=7012 /prefetch:1
+===============
+ID: 904, Name: chrome.exe, CommandLine: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1632,11783860823361273981,10424980959169133499,131072 --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=82 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=9960 /prefetch:1
+===============
+ID: 6356, Name: chrome.exe, CommandLine: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=audio.mojom.AudioService --field-trial-handle=1632,11783860823361273981,10424980959169133499,131072 --lang=en-US --service-sandbox-type=audio --mojo-platform-channel-handle=6852 /prefetch:8
+===============
+ID: 2872, Name: smartscreen.exe, CommandLine: C:\Windows\System32\smartscreen.exe -Embedding
+===============
+ID: 7184, Name: Updater_main.exe, CommandLine: "C:\Users\My Computer\Downloads\Updater_main.exe"
+===============
+ID: 5832, Name: dllhost.exe, CommandLine: C:\WINDOWS\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}
