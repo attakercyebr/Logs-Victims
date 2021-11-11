@@ -39,9 +39,8 @@ Count : 1168 logs victims device
 -📌 size : 1.80 GB
 
 ------------------------------------------------
-# Click to download [Part 1 ](https://t.me/M4nifest0_bot?start=_MOFGHULY).
+# Visit my telegram to receive [@hack4lx](https://t.me/hack4lx).
 
-# Click to download [Part 2 ](https://t.me/M4nifest0_bot?start=_BTMUARK).
 ----------------------
 
 # ☠️👊 M4nifest0 Black Hat Hacking Team™💪🏴‍☠️:
